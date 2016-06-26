@@ -4,6 +4,15 @@ A webpack starter kit, using this to build web app without any server.
 # Prerequisites
   * Node & NPM
   * Webpack package
+
+# Repository usage
+  * Clone the repository 
+  
+    `git clone https://github.com/kannans/webpack-starter.git`
+
+  * Install packages
+  
+    `npm install`
   
 # Installation
 
